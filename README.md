@@ -61,7 +61,7 @@ Happy coding!
 
 <div align="center">
 
-### ❤️ Thank you for visiting my profile ❤️
+### ❤ Thank you for visiting my profile ❤
 ![](https://komarev.com/ghpvc/?username=singhjagpreet096)
 
 
