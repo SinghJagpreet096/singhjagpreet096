@@ -58,3 +58,12 @@ Devender, D., Singh, D., Singh, J., & Bains, K. S. (2023). ***“Alzheimer's dia
 Feel free to explore my repositories and Reach out @singhjagpreet096@gmail.com for collaborations
 
 Happy coding! 
+
+<div align="center">
+
+### ❤️ Thank you for visiting my profile ❤️
+![](https://komarev.com/ghpvc/?username=singhjagpreet096)
+
+
+</div>
+
