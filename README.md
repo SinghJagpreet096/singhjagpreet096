@@ -25,7 +25,7 @@ Devender, D., Singh, D., Singh, J., & Bains, K. S. (2023). ***“Alzheimer's dia
 ### [InterView BOT](https://github.com/SinghJagpreet096/InterviewBot)
 
 - Description: The project isolate interview environment and LLM act as interviewer ask questions based on resume and job description provided.
-- Primary Tools: ***Streamlit***, ***Ollama**, ***Llama3.2**, ***Whisper***
+- Primary Tools: ***Streamlit***, ***Ollama***, ***Llama3.2***, ***Whisper***
 
 ### [Gurbani AI](https://github.com/SinghJagpreet096/Gurbani_Darpan)
 - Description: Uses Retreival Augmented Generation(RAG) to answer user query based on Gurbani.
