@@ -1,6 +1,6 @@
 # JAGPREET SINGH
 
-Bonjour! I'm Jagpreet Singh, a Machine Learning Engineer passionate about AI and ML. Welcome to my GitHub profile!
+Bonjour! I'm Jagpreet Singh, a ML/AI Engineer passionate about AI and ML. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -20,13 +20,16 @@ Devender, D., Singh, D., Singh, J., & Bains, K. S. (2023). ***“Alzheimer's dia
 
 
 
-## Projects
+## [Projects](https://github.com/SinghJagpreet096/projects)
 
-### American Sign Language
+### [InterView BOT](https://github.com/SinghJagpreet096/InterviewBot)
 
-- Description: The project aims at converting sign language gestures into text using computer vision
-- Primary Libraries: ***Media Pipe*** , ***OpenCV***
-- GitHub Repository: https://github.com/SinghJagpreet096/ASL
+- Description: The project isolate interview environment and LLM act as interviewer ask questions based on resume and job description provided.
+- Primary Tools: ***Streamlit***, ***Ollama**, ***Llama3.2**, ***Whisper***
+
+### [Gurbani AI](https://github.com/SinghJagpreet096/Gurbani_Darpan)
+- Description: Uses Retreival Augmented Generation(RAG) to answer user query based on Gurbani.
+- Primary Tools: ***FastAPI***, ***SQLite***, ***ChromaDB***, ***BaniDB***
 <!-- - Demo: [Link to the project demo, if applicable]-->
 
 ## Skills
